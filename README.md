@@ -1,5 +1,14 @@
 # Typing
 
+Typing game deployed with now.io and available at : https://typing-kagboton-kagbotons-projects.vercel.app Built from Stephen Grider Angular Udemy course (section 5) : https://www.udemy.com/course/the-modern-angular-bootcamp/
+
+What we've done here : 
+- used faker-js to randomly generate text
+- handled by user input
+- conditional display
+- character by character comparison
+- styling by character comparison
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
 ## Development server
